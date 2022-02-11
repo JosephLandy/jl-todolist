@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.5.2",
+    "ajv": "^6.12.3",
     "deepcopy": "^1.0.0",
     "react": "^16.4.1",
     "react-dnd": "^5.0.0",
